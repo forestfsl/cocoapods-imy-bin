@@ -1,0 +1,5 @@
+require 'cocoapods-bin-forest/helpers/sources_helper'
+require 'cocoapods-bin-forest/helpers/spec_creator'
+require 'cocoapods-bin-forest/helpers/spec_files_helper'
+require 'cocoapods-bin-forest/helpers/spec_source_creator'
+require 'cocoapods-bin-forest/helpers/build_utils'
